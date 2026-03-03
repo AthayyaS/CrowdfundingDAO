@@ -1,5 +1,5 @@
 # Website
-https://joohirana.github.io/CrowdfundingDAO
+https://github.com/AthayyaS/CrowdfundingDAO.git
 
 ### Author: Joohi Rana and Athayya Farahiyah 
 
